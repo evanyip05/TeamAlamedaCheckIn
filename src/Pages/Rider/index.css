@@ -1,4 +1,0 @@
-[contentEditable]:empty:before{
-    content: attr(data-placeholder);
-}
-  
